@@ -23,8 +23,8 @@
 ///
 import 'package:flutter/widgets.dart';
 
-class MyFlutterApp {
-  MyFlutterApp._();
+class AppIcons {
+  AppIcons._();
 
   static const _kFontFam = 'MyFlutterApp';
   static const _kFontPkg = null;
